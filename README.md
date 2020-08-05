@@ -1,6 +1,6 @@
 # Snake-Game
 
-#Usage
+# Usage
 
 Use arrow keys, wasd, or hjkl to control the snake.
 Collect apples.

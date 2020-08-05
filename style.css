@@ -2,9 +2,9 @@ html, body {
     height:          100%;
     margin:          0;
     padding:         0;
-    background:      #121212;
+    background:      #6d3f3f;
     text-align:      center;
-    color:           #fff;
+    color:           rgb(70, 88, 4);
     display:         flex;
     justify-content: center;
     align-items:     center;

@@ -4,7 +4,7 @@
 
 ```bash
 git clone git@github.com:yalvarez1998/Snake-Game.git
-node cli
+node game
 ```
 
 - Use arrow keys, wasd, or hjkl to control the snake.

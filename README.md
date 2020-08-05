@@ -4,7 +4,6 @@
 
 ```bash
 git clone git@github.com:chrokh/fp-games.git
-cd 001-snake
 node cli
 ```
 

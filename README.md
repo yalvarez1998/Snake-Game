@@ -3,7 +3,7 @@
 # Usage
 
 ```bash
-git clone git@github.com:yalvarez1998/Snake-Game.git
+git clone git@github.com:yitzhakalvarez/Snake-Game.git
 node game
 ```
 
